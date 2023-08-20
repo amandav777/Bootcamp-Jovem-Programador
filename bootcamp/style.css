@@ -1,0 +1,174 @@
+body {
+    width: 100%;
+    margin: auto;
+    background-color: #03051f;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    color: #fff;
+  }
+  
+  .logoCanto {
+    margin: 10px;
+  }
+  
+  .logoVestibular {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #imgVestibular {
+    width: 70%;
+    height: 50%;
+  }
+  
+  .titulo {
+    margin-bottom: 40px;
+    justify-content: center;
+    color: #fff;
+    display: flex;
+  }
+  
+  .cursos {
+    display: inline-flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .cursos-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .ADS {
+    margin: 0 auto;
+    height: 300px;
+    background: white;
+    border-radius: 20px;
+    color: #141414;
+    justify-content: center;
+    text-align: justify;
+    padding: 20px;
+  }
+
+  
+
+  p { /* textos */
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+  }
+  
+  ul { /* listas */
+    font-weight: normal;
+    margin: auto;
+    width: 440px;
+    height: 150px;
+  }
+
+  #botaoADS {
+    background-color: #466cc2;
+    color: #fff;
+    font-weight: bolder;
+    font-size: x-large;
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px #888888;
+  }
+  
+  .BCC {
+    margin: 0 auto;
+    height: 300px;
+    background: white;
+    border-radius: 20px;
+    color: #141414;
+    justify-content: center;
+    text-align: justify;
+    padding: 20px;
+  }
+  
+  #botaoCC {
+    background-color: #361168;
+    color: #fff;
+    width: 100%;
+    height: 20%;
+    font-size: x-large;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px #888888;
+  }
+  
+  .botaoInscricao {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    justify-content: center;
+  }
+  
+
+  /* ajustar o tamanho do botao */
+  a   {
+    width: 100%;
+    }
+  
+  #inscrevase {
+    background-color: #003264;
+    color: #fff;
+    width: 100%;
+    height: 70px;
+    font-size: x-large;
+    border-radius: 10px;
+    margin: auto;
+    border: none;
+    margin-top: 15px;
+    box-shadow: 5px 5px 10px #060622;
+  }
+  
+  .noticias {
+    background-color: #494f8980;
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around; /* Center horizontally */
+    margin: 0 auto; /*Center horizontally*/
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  
+  #imagemUm {
+    width: 25%;
+    height: 80%;
+    padding: 20px;
+    border-radius: 30px;
+  }
+  
+  #imagemDois {
+    width: 25%;
+    height: 80%;
+    padding: 20px;
+    border-radius: 30px;
+  }
+  
+  #imagemTres {
+    width: 25%;
+    height: 80%;
+    padding: 20px;
+    border-radius: 30px;
+  }
+  
+  #Unimar {
+    width: 300px;
+  }
+  
+  .dadosUnimar {
+    background-color: #003264;
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    margin-top: 15px;
+  }
